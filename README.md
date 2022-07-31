@@ -22,6 +22,16 @@
  <li>Entendendo conceitos da orientação a objetos como o polimorfismo.</li>
 </ul>
 
+## 3º Dia
+
+#### Ligando as pontas, Refatoração e Orientação a objetos
+
+<ul>
+ <li>Refatoração do cógico;</li>
+ <li>Utilização de Enums e Interface</li>
+ <li>Consumindo API da Nasa</li>
+</ul>
+
 ##  Instrutores e Instrutoras da Alura
 
 <ul>
