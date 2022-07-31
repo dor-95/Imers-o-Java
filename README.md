@@ -1,6 +1,8 @@
-﻿# Imersão Java 1º Edição -- ALURA
+![Capa de Imersão da Alura](https://github.com/dor-95/Imersao-Java2022/blob/main/CapaImersao.jpg)
 
-## 1º Dia Imersão Java - Alura
+# Imersão Java 1º Edição -- ALURA
+
+## 1º Dia
 
 #### Consumindo uma API de Filmes com Java
 
@@ -8,11 +10,14 @@
  2. Retornando um arquivo JSON
  3. Realizando o Parser utilizando expressões regulares
 
-## 2º Dia Imersão Java - Alura
-
-
 ##  Instrutores e Instrutoras da Alura
 
---- Jacqueline Oliveira
---- Alexandre Aquiles 
---- Paulo Silveira
+<ul>
+ <li>Jacqueline Oliveira</li>
+<li>Alexandre Aquiles</li>
+<li>Paulo Silveira</li>
+</ul>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"/>
+</p>
