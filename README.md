@@ -1,4 +1,4 @@
-![Capa de Imersão da Alura](https://github.com/dor-95/Imersao-Java2022/blob/main/CapaImersao.jpg)
+<img src="https://github.com/dor-95/Imersao-Java2022/blob/main/CapaImersao.jpg"/>
 
 # Imersão Java 1º Edição -- ALURA
 
@@ -28,8 +28,8 @@
 
 <ul>
  <li>Refatoração do cógico;</li>
- <li>Utilização de Enums e Interface</li>
- <li>Consumindo API da Nasa</li>
+ <li>Utilização de Enums e Interface;</li>
+ <li>Consumindo API da Nasa.</li>
 </ul>
 
 ##  Instrutores e Instrutoras da Alura
