@@ -1,4 +1,4 @@
-<img src="https://github.com/dor-95/Imersao-Java2022/blob/main/CapaImersao.jpg"/>
+<img width="1000" height="100" src="https://github.com/dor-95/Imersao-Java2022/blob/main/CapaImersao.jpg"/>
 
 # Imersão Java 1º Edição -- ALURA
 
