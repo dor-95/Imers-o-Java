@@ -6,9 +6,17 @@
 
 #### Consumindo uma API de Filmes com Java
 
- 1. Realizado conexão com API do IMDb
- 2. Retornando um arquivo JSON
- 3. Realizando o Parser utilizando expressões regulares
+ 1. Realizado conexão com API do IMDb;
+ 2. Retornando um arquivo JSON;
+ 3. Realizando o Parser utilizando expressões regulares.
+ 
+ ## 2º Dia
+
+#### Gerando figurinhas para whatsapp
+
+ 1. Criação de classes para geração de stickers;
+ 2. Manipulação de imagens com Java;
+ 3. Entendendo conceitos da orientação a objetos como o polimorfismo.
 
 ##  Instrutores e Instrutoras da Alura
 
